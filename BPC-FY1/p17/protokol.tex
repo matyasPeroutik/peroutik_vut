@@ -36,6 +36,33 @@
 Zobrazte na osciloskopu a změřte zadané hodnoty napětí s harmonickým průběhem, a to neusměrněné a jednocestně i dvoucestně usměrněné. Využijte podle možnosti všechny voltmetry u úlohy.
 \section{Teoretický rozbor}
 
+\subsection{Efektivní hodnota elektrických veličin}
+Efektivní hodnota elektrické veličiny je hodnota stejnosměrné stálé veličiny, která by za dobu jedné periody signálu na stejném ideálním rezistoru vyzářila stejné teplo. Z této definice vyplývají následující vztahy:
+
+\begin{equation}
+\label{eqn:u_efective}
+U_{ef}=\sqrt{\frac{1}{T}\int_{0}^{T}u^2(t)dt}\
+\end{equation}
+\begin{equation}
+\label{eqn:i_effective}
+I_{ef}=\sqrt{\frac{1}{T}\int_{0}^{T}i^2(t)dt}
+\end{equation}
+
+kde u(t) je okamžitá hodnota napětí a i(t) je okamžitá hodnota proudu.
+
+\subsection{Střední hodnota elektrických veličin}
+Efektivní hodnota elektrické veličiny je hodnota stejnosměrné stálé veličiny, která by za dobu jedné periody signálu umožnila přenos stejně velkého náboje. Taky se jí občasně říká stejnosměrná složka signálu. Z definice vyplývají následující vztahy:
+
+\begin{equation}
+\label{u_meanval}
+U_{s}=\frac{1}{T}\int_{0}^{T}u^2(t)dt\\
+\end{equation}
+\begin{equation}
+\label{i_meanval}
+I_{s}=\frac{1}{T}\int_{0}^{T}i^2(t)dt\\
+\end{equation}
+
+kde u(t) je okamžitá hodnota napětí a i(t) je okamžitá hodnota proudu.
 
 \end{document}
 
