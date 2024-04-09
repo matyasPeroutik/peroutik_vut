@@ -1,1 +1,26 @@
 \babel@toc {czech}{}\relax 
+\contentsline {figure}{\numberline {1}{\ignorespaces Závislost výšky hladiny regulovaného systému v závislosti na čase s průtokem vynásobeným konst. k = 1\relax }}{4}{figure.caption.6}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Závislost výšky hladiny regulovaného systému v závislosti na čase s průtokem vynásobeným konst. k = 0.5\relax }}{4}{figure.caption.6}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Graf vyvracející adivitu\relax }}{5}{figure.caption.8}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Graf dokazující časovou invarientnost obvodu\relax }}{5}{figure.caption.10}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Graf přechodové charakteristiky nelineární soustavy (žlutá) a jejího nenastaveného modelu (modrá) se zobrazenými hodnotami maxima a hodnotě za dobu $\tau $\relax }}{6}{figure.caption.15}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Graf přechodové charakteristiky nelineární soustavy (žlutá) a jejího nastaveného lineárního modelu (modrá) pomocí zjištěných hodnot z výpočtů (\ref {eqn:tau}) a (\ref {eqn:gain})\relax }}{7}{figure.caption.17}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Průběh akčního zásahu u(t) ovládaným pouze P regulátorem s hodnotou P = 0.005\relax }}{8}{figure.caption.20}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Průběh výšky hladiny systému y(t) regulovaným pouze P regulátorem s hodnotou P = 0.005\relax }}{8}{figure.caption.20}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Průběh akčního zásahu u(t) ovládaným PD regulátorem s hodnotami P~=~0.005 a D~=~0.00007\relax }}{8}{figure.caption.21}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Průběh výšky hladiny systému y(t) regulovaným PD regulátorem s hodnotami P~=~0.005 a D~=~0.00007\relax }}{8}{figure.caption.21}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Průběh akčního zásahu u(t) ovládaným PI regulátorem s hodnotami P~=~0.005 a I~=~0.00048\relax }}{9}{figure.caption.23}%
+\contentsline {figure}{\numberline {12}{\ignorespaces Průběh výšky hladiny systému y(t) regulovaným PI regulátorem s hodnotami P~=~0.005 a I~=~0.00048\relax }}{9}{figure.caption.23}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Průběh akčního zásahu u(t) ovládaným PID regulátorem s hodnotami P~=~0.005 , I~=~0.00048 a D~=~0.00007\relax }}{9}{figure.caption.25}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Průběh výšky hladiny systému y(t) regulovaným PID regulátorem s hodnotami P~=~0.005, I~=~0.00048 a D~=~0.00007\relax }}{9}{figure.caption.25}%
+\contentsline {figure}{\numberline {15}{\ignorespaces Průběh akčního zásahu u(t) ovládaným reálným PID regulátorem s hodnotami P~=~0.005 , I~=~0.00048 a D~=~0.00007\relax }}{10}{figure.caption.28}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Průběh výšky hladiny systému y(t) regulovaným reálným PID regulátorem s hodnotami P~=~0.005, I~=~0.00048 a D~=~0.00007\relax }}{10}{figure.caption.28}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Průběh akčního zásahu u(t) ovládaným reálným odlaďěným PID regulátorem s hodnotami P~=~0.35 , I~=~0.01 a D~=~0.07\relax }}{11}{figure.caption.30}%
+\contentsline {figure}{\numberline {18}{\ignorespaces Průběh výšky hladiny systému y(t) regulovaným reálným odlaďěným PID regulátorem s hodnotami P~=~0.35 , I~=~0.01 a D~=~0.07\relax }}{11}{figure.caption.30}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Porovnání regulace laděné na ideálním PID regulátoru (žlutá) a skutečném PID regulátoru (modrá)\relax }}{11}{figure.caption.31}%
+\contentsline {figure}{\numberline {20}{\ignorespaces Průběhy akčních zásahů nelineárního a LTI systému regulovaných PID regulací s upravou w(t) v čase 50s na polovinu požadované hodnoty\relax }}{12}{figure.caption.33}%
+\contentsline {figure}{\numberline {21}{\ignorespaces Průběhy regulovaných veličin nelineárního a LTI systému regulovaných PID regulací s upravou w(t) v čase 50s na polovinu požadované hodnoty\relax }}{12}{figure.caption.34}%
+\contentsline {figure}{\numberline {22}{\ignorespaces Průběhy akčních zásahů u(t) nelineárního systému regulovaného pomocí PID regulátoru (žlutá) a ON/OFF regulátoru (modrá)\relax }}{14}{figure.caption.39}%
+\contentsline {figure}{\numberline {23}{\ignorespaces Průběhy regulované veličiny y(t) nelineárního systému regulovaného pomocí PID regulátoru (žlutá) a ON/OFF regulátoru (modrá)\relax }}{14}{figure.caption.40}%
+\contentsline {figure}{\numberline {24}{\ignorespaces Průběhy regulované veličiny y(t) nelineárního systému regulovaného pomocí PID regulátoru (žlutá) a ON/OFF regulátoru (modrá)\relax }}{15}{figure.caption.42}%
+\contentsline {figure}{\numberline {25}{\ignorespaces Průběhy regulované veličiny y(t) nelineárního systému regulovaného pomocí PID regulátoru (žlutá) a ON/OFF regulátoru (modrá)\relax }}{15}{figure.caption.43}%

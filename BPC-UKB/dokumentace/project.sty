@@ -39,16 +39,16 @@
 \paperwidth=597pt
 \brokenpenalty=10000
 % FANCY STYLE
-\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
-\renewcommand{\sectionmark}[1]{\markright{\thesection\ #1}}
-\lhead[\fancyplain{}{\nouppercase{\thepage}}]{\fancyplain{}{\nouppercase{\rightmark}}}
-\rhead[\fancyplain{}{\nouppercase{\leftmark}}]{\fancyplain{}{\nouppercase{\thepage}}}
-\cfoot{}
+%\renewcommand{\sectionmark}[1]{\thesection\ #1}
+%\lhead[\fancyplain{}{\nouppercase{\thepage}}]{\fancyplain{}{\nouppercase{\rightmark}}}
+%\rhead[\fancyplain{}{\nouppercase{\leftmark}}]{\fancyplain{}{\nouppercase{\thepage}}}
+%\cfoot{}
 %%%%
 \newcommand{\prefrontmatter}{
    \begin{center}
         \vspace*{\fill}
         \huge\projecttitle\\
+        \Large{\projectprogramme}\\
         \vspace*{\fill}
         \Large{\projectauthor}\\
         \vspace*{\fill}
@@ -56,27 +56,4 @@
         \vspace*{\fill}
    \end{center}
 }
-%% CHAPTER STYLE
-\def\@makechapterhead#1{
-  {\parindent \z@ \raggedright \normalfont
-   \ifnum \c@secnumdepth >\m@ne
-      \if@mainmatter
-        \Large\scshape\@chapapp\space\Large\upshape\bf\thechapter
-        \par\nobreak
-        \vskip 20\p@
-      \fi
-    \fi
-    \interlinepenalty\@M
-    \flushleft\parbox{\textwidth}{\raggedright\huge #1}
-     \par\nobreak
-     \vskip 15pt
-     \hrule height 0.4pt
-  }}
-\def\@makeschapterhead#1{
-  {\parindent \z@ \raggedright \normalfont
-    \interlinepenalty\@M
-      \huge  #1
-     \par\nobreak
-     \vskip 15pt
-     \hrule height 0.4pt
-  }}
+

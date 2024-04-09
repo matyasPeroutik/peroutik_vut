@@ -1,1 +1,41 @@
 \babel@toc {czech}{}\relax 
+\contentsline {section}{\numberline {1}Úkol 1}{4}{section.1}%
+\contentsline {paragraph}{}{4}{section*.4}%
+\contentsline {subsection}{\numberline {1.1}Ověření homogenity}{4}{subsection.1.1}%
+\contentsline {paragraph}{}{4}{section*.5}%
+\contentsline {subsection}{\numberline {1.2}Ověření aditivy}{4}{subsection.1.2}%
+\contentsline {paragraph}{}{4}{section*.7}%
+\contentsline {paragraph}{}{5}{section*.9}%
+\contentsline {subsection}{\numberline {1.3}OVěření časové invarientnosti}{5}{subsection.1.3}%
+\contentsline {paragraph}{}{6}{section*.11}%
+\contentsline {subsection}{\numberline {1.4}Vyhodnocení}{6}{subsection.1.4}%
+\contentsline {paragraph}{}{6}{section*.12}%
+\contentsline {section}{\numberline {2}Úkol 2}{6}{section.2}%
+\contentsline {paragraph}{}{6}{section*.13}%
+\contentsline {subsection}{\numberline {2.1}Zjištění parametrů LTI systému}{6}{subsection.2.1}%
+\contentsline {paragraph}{}{6}{section*.14}%
+\contentsline {paragraph}{}{7}{section*.16}%
+\contentsline {section}{\numberline {3}Úkol 3}{7}{section.3}%
+\contentsline {paragraph}{}{7}{section*.18}%
+\contentsline {subsection}{\numberline {3.1}Regulace pomocí složky P}{8}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Regulace pomocí složek PD}{8}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Regulace pomocí složek PI}{9}{subsection.3.3}%
+\contentsline {paragraph}{}{9}{section*.22}%
+\contentsline {subsubsection}{\numberline {3.3.1}Regulace pomocí složek PID}{9}{subsubsection.3.3.1}%
+\contentsline {paragraph}{}{9}{section*.24}%
+\contentsline {section}{\numberline {4}Úkol 4}{10}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Nastavení PID pomocí předešlých hodnot}{10}{subsection.4.1}%
+\contentsline {paragraph}{}{10}{section*.27}%
+\contentsline {subsection}{\numberline {4.2}Nastavení PID podle experimentálně vyladěných hodnot}{10}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Úkol 5}{12}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Porovnání vlivu PID na nelineární a LTI systém}{12}{subsection.5.1}%
+\contentsline {paragraph}{}{12}{section*.32}%
+\contentsline {section}{\numberline {6}Úkol 6}{13}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Popis bloku Relay s hysterezí}{13}{subsection.6.1}%
+\contentsline {paragraph}{}{13}{section*.35}%
+\contentsline {subsection}{\numberline {6.2}Realizace ON/OFF regulace pomocí bloku Relay s hysterezí}{13}{subsection.6.2}%
+\contentsline {paragraph}{}{13}{section*.37}%
+\contentsline {subsection}{\numberline {6.3}Porovnání ON/OFF regulátoru s PID regulátorem}{15}{subsection.6.3}%
+\contentsline {paragraph}{}{15}{section*.41}%
+\contentsline {section}{\numberline {7}Závěr}{16}{section.7}%
+\contentsline {paragraph}{}{16}{section*.44}%
